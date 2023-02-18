@@ -1,4 +1,6 @@
 ## 0x01. AirBnB clone - Web static
+![hbnb](https://user-images.githubusercontent.com/88311316/151070609-19608294-829e-408b-b2b3-5d1f2873f1e3.png)
+
 - Concepts
 - For this project, we expect you to look at these concepts:
 ## https://intranet.alxswe.com/concepts/2
